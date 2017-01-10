@@ -1,0 +1,9 @@
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\bin\Debug\JagerSimulation1.exe.config
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\bin\Debug\JagerSimulation1.exe
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\bin\Debug\JagerSimulation1.pdb
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\obj\Debug\JagerSimulation1.csprojResolveAssemblyReference.cache
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\obj\Debug\JagerSimulation1.MainForm.resources
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\obj\Debug\JagerSimulation1.Properties.Resources.resources
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\obj\Debug\JagerSimulation1.csproj.GenerateResource.Cache
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\obj\Debug\JagerSimulation1.exe
+c:\users\vladan2016\documents\visual studio 2015\Projects\JagerSimulation1\JagerSimulation1\obj\Debug\JagerSimulation1.pdb
